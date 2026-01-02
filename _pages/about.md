@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Atanu!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Postdoctoral Researcher at the University of Notre Dame, currently working on Heterogeneous and Non-thermal Plasma Catalysis with [Prof. William H. Schneider's group](https://wfschneidergroup.github.io/). My research experience previously centered on coarse-grained molecular dynamics simulations of polyelectrolyte coacervate systems related to Liquid-Liquid Phase Separation (LLPS) in crowded environments. More recently, my interests have pivoted toward Heterogeneous and Plasma Catalysis. 
+Prior to my current role, I worked as a postdoc at the University of Houston with [Dr. Gül Zerze](https://ghzlab.chee.uh.edu/) and with [Dr. Jonathan Whitmer](https://engineering.nd.edu/faculty/jonathan-whitmer/) here at Notre Dame. I am a Physics Undergraduate and Graduate (MSc) with a specialization in Condensed Matter Physics. I have always been fascinated by interdisciplinary research and have spent the last nine years collaborating with wonderful colleagues who happen to be Chemists, Physicists, and Chemical Engineers!
+
+### Broad Research Interests
+* **Non-thermal Plasma Modelling:** Investigating Non-thermal plasma effects in hydrocarbon conversions.
+* **Heterogeneous Catalysis:** Exploring surface reactions at the quantum level and catalyst design.
+* **Polyelectrolyte Coacervation:** Studying LLPS using Coarse-grained MD simulations in crowded macromolecular environments.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +61,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
