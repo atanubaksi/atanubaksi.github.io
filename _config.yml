@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "abaksi_photo.png"
   name             : "Atanu Baksi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him"  
   bio              : "Postdoctoral Researcher"
   location         : "South Bend, USA"
   employer         : "University of Notre Dame"
   uri              : # URL
-  email            : 
+  email            : "atanubaksi89@gmail.com"
 
   # Academic websites
   academia         : # URL
